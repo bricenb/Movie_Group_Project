@@ -1,0 +1,40 @@
+               MOVIE TICKET 1
+****************************************
+               ONE ENTRY ONLY           
+
+TITLE: Wolf of Wall Street
+Location: Columbia theater
+Seat Number in Row:Col 11
+*****************************************
+               MOVIE TICKET 2
+****************************************
+               ONE ENTRY ONLY           
+
+TITLE: Wolf of Wall Street
+Location: Columbia theater
+Seat Number in Row:Col 12
+*****************************************
+               MOVIE TICKET 3
+****************************************
+               ONE ENTRY ONLY           
+
+TITLE: Wolf of Wall Street
+Location: Columbia theater
+Seat Number in Row:Col 13
+*****************************************
+               MOVIE TICKET 4
+****************************************
+               ONE ENTRY ONLY           
+
+TITLE: Wolf of Wall Street
+Location: Columbia theater
+Seat Number in Row:Col 14
+*****************************************
+               MOVIE TICKET 5
+****************************************
+               ONE ENTRY ONLY           
+
+TITLE: Wolf of Wall Street
+Location: Columbia theater
+Seat Number in Row:Col 25
+*****************************************

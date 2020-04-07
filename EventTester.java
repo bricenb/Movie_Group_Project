@@ -1,3 +1,6 @@
+/**
+** Team Name: Bricen Bennett,John Saidi, Jackson G.,Thomas Jervey.
+**/
 import java.io.IOException;
 import java.util.Scanner;
 

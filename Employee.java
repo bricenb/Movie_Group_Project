@@ -1,5 +1,6 @@
 /**
  * This class extends User
+ * Team Name: Bricen Bennett,John Saidi, Jackson G.,Thomas Jervey.
  */
 public class Employee extends User{
     public int idNumber;

@@ -1,5 +1,6 @@
 /**
  * This class holds all methods that are used in the main method.
+ * Team Name: Bricen Bennett,John Saidi, Jackson G.,Thomas Jervey.
  */
 
 import java.io.BufferedWriter;

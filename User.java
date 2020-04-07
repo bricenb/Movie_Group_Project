@@ -1,6 +1,7 @@
 /**
  * This is an abstract class that sets up a User.
  * every User must have a name, password, and age
+ * Team Name: Bricen Bennett,John Saidi, Jackson G.,Thomas Jervey.
  */
 public class User {
     public String name;

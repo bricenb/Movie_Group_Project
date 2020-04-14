@@ -39,7 +39,7 @@ class EventTest {
 	@Test
 	public void testgetComments()
 	{
-		String Comments = event.getTitle();
+		String Comments = event.getComments();
 		String actualOutput = Comments;
 		String expectedOutput = "Not better than the 1st one";
 		assertEquals(expectedOutput, actualOutput);
